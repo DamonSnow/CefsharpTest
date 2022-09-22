@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefsharpTest", "CefsharpTest\CefsharpTest.csproj", "{A280A672-8226-4042-B773-86F8DCF4A386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Debug|x64.ActiveCfg = Debug|x64
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Debug|x64.Build.0 = Debug|x64
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Debug|x86.ActiveCfg = Debug|x64
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Debug|x86.Build.0 = Debug|x64
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Release|x64.ActiveCfg = Release|x64
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Release|x64.Build.0 = Release|x64
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Release|x86.ActiveCfg = Release|x86
+		{A280A672-8226-4042-B773-86F8DCF4A386}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {570308FD-CD4B-4320-BE2C-CD171587E4EB}
+	EndGlobalSection
+EndGlobal
